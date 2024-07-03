@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/clicktestpages/static/css/main.9d526ed9.css",
+    "main.js": "/clicktestpages/static/js/main.9d01348a.js",
+    "static/js/952.88d42380.chunk.js": "/clicktestpages/static/js/952.88d42380.chunk.js",
+    "static/media/dario-moccia.gif": "/clicktestpages/static/media/dario-moccia.8e6f2f570a77a35fca3d.gif",
+    "static/media/6zgjtx.webp": "/clicktestpages/static/media/6zgjtx.e4ab7b064796ec770baa.webp",
+    "index.html": "/clicktestpages/index.html",
+    "static/media/user.svg": "/clicktestpages/static/media/user.6e73d4918c397c6723e02c65de635695.svg",
+    "main.9d526ed9.css.map": "/clicktestpages/static/css/main.9d526ed9.css.map",
+    "main.9d01348a.js.map": "/clicktestpages/static/js/main.9d01348a.js.map",
+    "952.88d42380.chunk.js.map": "/clicktestpages/static/js/952.88d42380.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d526ed9.css",
+    "static/js/main.9d01348a.js"
+  ]
+}
