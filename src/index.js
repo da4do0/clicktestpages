@@ -14,6 +14,7 @@ import { OperationProvider } from "./hooks/operationDb.hook";
 
 const router = createBrowserRouter([
   {
+    
     path: "/",
     element: <Header />,
     errorElement: <ErrorPage />,
@@ -32,7 +33,7 @@ const router = createBrowserRouter([
       },
     ],
   },
-]);
+],{basename: "/clicktestpages"});
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
